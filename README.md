@@ -22,6 +22,7 @@ class AboutMe:
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=javascript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=php)
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=html)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=css)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=c)
