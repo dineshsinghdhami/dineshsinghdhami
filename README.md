@@ -1,13 +1,14 @@
 ### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), a coding Newbie.
 ### About Me 🙋🏻‍♂️
 ```javascript
-class AboutMe:
-  constructor(){
+class AboutMe {
+  constructor() {
     this.name = "Dinesh Singh Dhami";
-    this.calibers = ["Coding Newbie"];
+    this.role = "Coding Newbie";
     this.age = new Date().getFullYear() - 2004;
     this.motto = "Code. Learn. Build. Repeat.";
   }
+}
 ```
 
 **Connect with me:**
@@ -16,6 +17,7 @@ class AboutMe:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshsinghdhami1/)
 [![Website](https://img.shields.io/badge/Website-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dineshsinghdhami.com.np)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dineshsinghdhami1?sub_confirmation=1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dineshsinghdhami/)
 
 
 **Languages:**
@@ -27,6 +29,7 @@ class AboutMe:
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=css)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=c++)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=dart)
 
 
 **Frameworks And Tools:**
