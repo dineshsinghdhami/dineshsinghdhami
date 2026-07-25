@@ -22,7 +22,6 @@ class AboutMe {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshsinghdhami1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dineshdhami001)
 [![Website](https://img.shields.io/badge/Website-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dineshsinghdhami.com.np)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dineshsinghdhami1?sub_confirmation=1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dineshsinghdhami/)
 
 **Languages:**
