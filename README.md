@@ -1,4 +1,5 @@
-### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), a Final-Year Computer Engineering Student passionate about Python, Data Analytics & Web Development.
+### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), a Final-Year Computer Engineering Student exploring Python & Data Analytics.
+
 ### About Me 🙋🏻‍♂️
 ```javascript
 class AboutMe {
