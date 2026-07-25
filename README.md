@@ -1,12 +1,16 @@
-### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), a coding Newbie.
-
+### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), a Final-Year Computer Engineering Student passionate about Python, Data Analytics & Web Development.
 ### About Me 🙋🏻‍♂️
 ```javascript
 class AboutMe {
   constructor() {
     this.name = "Dinesh Singh Dhami";
-    this.role = "Coding Newbie";
+    this.role = "Final-Year Computer Engineering Student";
     this.age = new Date().getFullYear() - 2004;
+    this.interests = [
+      "Python",
+      "Data Analytics",
+      "Web Development"
+    ];
     this.motto = "Code. Learn. Build. Repeat.";
   }
 }
