@@ -1,4 +1,4 @@
-### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), a Final-Year Computer Engineering Student.
+### Hi there, I'm [Dinesh Singh Dhami](https://dineshsinghdhami.com.np/), a Final-Year Computer Engineering Student.
 
 ### About Me 🙋🏻‍♂️
 ```javascript
