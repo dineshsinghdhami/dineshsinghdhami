@@ -1,15 +1,16 @@
-### Hi there, I'm [Dinesh Singh Dhami](https://dineshsinghdhami.com.np/), a Final-Year Computer Engineering Student.
+### Hi there, I'm [Dinesh Singh Dhami](https://dineshsinghdhami.com.np/), a Computer Engineering Undergraduate.
 
 ### About Me 🙋🏻‍♂️
 ```javascript
 class AboutMe {
   constructor() {
     this.name = "Dinesh Singh Dhami";
-    this.role = "Final-Year Computer Engineering Student";
-    this.age = new Date().getFullYear() - 2004;
+    this.role = "Computer Engineering Undergraduate";
+    this.focus = "Aspiring Data Analyst";
     this.interests = [
+      "Data Analysis",
       "Python",
-      "Data Analytics",
+      "SQL",
       "Web Development"
     ];
     this.motto = "Code. Learn. Build. Repeat.";
@@ -27,19 +28,20 @@ class AboutMe {
 **Languages:**
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=python)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=sql)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=javascript)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=php)
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=html)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=css)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=sql)
 
 **Frameworks And Tools:**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
